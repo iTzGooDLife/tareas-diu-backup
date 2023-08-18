@@ -23,6 +23,7 @@ Describa brevemente un ejemplo de cumplimiento y uno de incumplimiento de las di
    * Ejemplos positivos
      
      Se ejecuta una animación cuando se cliclea un botón, dando a entender que se ejecutó una acción
+   
    * Ejemplos negativos
      
      ###No muestra barra de carga cuando se está ejecutando una petición
@@ -36,6 +37,7 @@ Describa brevemente un ejemplo de cumplimiento y uno de incumplimiento de las di
      No tiene lenguaje técnico, además, las descripciones de los productos son 
      
      concisas.
+   
    * Ejemplos negativos
      
      ...
@@ -45,6 +47,7 @@ Describa brevemente un ejemplo de cumplimiento y uno de incumplimiento de las di
    * Ejemplos positivos
      
      lo del negativo, al reves. Además, no aparecen pop-up de publicidad o de adblock
+   
    * Ejemplos negativos
      
      [Carro de Compras - Emotions](https://emotions.cl/carro-de-compras/)
@@ -56,29 +59,40 @@ Describa brevemente un ejemplo de cumplimiento y uno de incumplimiento de las di
    * Ejemplos positivos
      
      El flujo de selección de un producto es intuitivo, ya que no sólo tiene el nomrbe del producto, también imágenes.
+   
    * Ejemplos negativos
-     
-     
 
 6. Prevención del error
    
    * Ejemplos positivos
+     
+     Al crear una cuenta, al usuario se le pide repetir la contraseña, así se disminuye la probabilidad que el usuario ingrese su nueva contraseña con algún error de tipeo.
    * Ejemplos negativos
+     
+     
 
 7. Ayuda al usuario en reconocer, diagnosticar y recuperarse del error
    
    * Ejemplos positivos
+     
+     Al ir al carrito de compras e ingresar un e-mail sin el signo @, aparecerá un mensaje que indica que se debe incluir el signo @ en la dirección de correo electrónico.
    * Ejemplos negativos
 
 8. Flexibilidad y eficiencia de uso
    
    * Ejemplos positivos
+     
+     Para los usuarios que hayan marcado como favoritos productos que les haya gustado con el ícono de corazón, luego pueden acceder a estos rápidamente a través de apretar el ícono de corazón que aparece en la frontpage, ahorrándose acciones para acceder a estos.
    * Ejemplos negativos
 
 9. Diseño estético y minimalista
    
    * Ejemplos positivos
+     
+     En la frontpage, al bajar un poco, se muestran los productos más vendidos y recomendados, los cuales se denotan claramente para poder seleccionar y ocupan la totalidad de la pantalla para que tengan énfasis y no distraer al usuario con otra información.
    * Ejemplos negativos
+     
+     Al principio de la página principal, inmediatamente se puede observar una gran cantidad de información y opciones disponibles de manera compacta, como el registro, compra, categorías de productos, información de descuentos, etc., lo cual puede ser abrumador para un usuario nuevo o que haya ocupado pocas veces la página web
 
 10. Ayuda y documentación
     
