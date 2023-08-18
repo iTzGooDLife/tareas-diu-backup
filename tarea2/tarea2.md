@@ -30,7 +30,7 @@ Describa brevemente un ejemplo de cumplimiento y uno de incumplimiento de las di
      
      Cuando se hace click en los botones, estos realizan una animación simulando ser presionado, haciendole saber al usuario que este fue presionado.
      
-     [Botón ejemplo "CREAR"](Foto Tela 60x80 Horizontal - Emotions](https://emotions.cl/producto/foto-tela-60x80-horizontal/)
+     [Botón ejemplo "CREAR"](https://emotions.cl/producto/foto-tela-60x80-horizontal/)
    
    * Ejemplos negativos
      
