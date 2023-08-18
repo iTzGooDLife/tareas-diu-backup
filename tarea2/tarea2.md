@@ -21,8 +21,8 @@ Describa brevemente un ejemplo de cumplimiento y uno de incumplimiento de las di
      ![](./assets/positivo-1.png)
    
    * Ejemplos negativos
-   
-   * No se encuentran. La página cumple un proposito bastante simple y es bastante generica por lo que es dificil encontrar fallos de consistencia o estandares.
+     
+     No se encuentran. La página cumple un proposito bastante simple y es bastante generica por lo que es dificil encontrar fallos de consistencia o estandares.
 
 2. Visibilidad del estado del sistema
    
@@ -30,13 +30,11 @@ Describa brevemente un ejemplo de cumplimiento y uno de incumplimiento de las di
      
      Cuando se hace click en los botones, estos realizan una animación simulando ser presionado, haciendole saber al usuario que este fue presionado.
      
-     [Botón ejemplo "CREAR"]([Foto Tela 60x80 Horizontal - Emotions](https://emotions.cl/producto/foto-tela-60x80-horizontal/))
+     [Botón ejemplo "CREAR"](Foto Tela 60x80 Horizontal - Emotions](https://emotions.cl/producto/foto-tela-60x80-horizontal/)
    
    * Ejemplos negativos
      
-     ###No muestra barra de carga cuando se está ejecutando una petición
-     
-     ###Imagen
+     Cuando cargan las imagenes de los productos no muestra que se están cargando, podría agregarse una animación que represente este estado.
 
 3. Similitud entre el sistema y el mundo real
    
@@ -48,7 +46,7 @@ Describa brevemente un ejemplo de cumplimiento y uno de incumplimiento de las di
    
    * Ejemplos negativos
      
-     ...
+     No se presentan. Ya que cumple con que los productos y sus descripciones se asemejen a la realidad, junto con el resto de la aplicación.
 
 4. Control de usuario y libertad
    
@@ -77,6 +75,10 @@ Describa brevemente un ejemplo de cumplimiento y uno de incumplimiento de las di
      ![](./assets/positivo-5.png)
    
    * Ejemplos negativos
+     
+     Por cada categoría de productos hay muchas subcategorías, haciendo dificil encontrar como llegar a un objeto/producto en especifico.
+     
+     ![](assets/negativo-5.png)
 
 6. Prevención del error
    
@@ -87,6 +89,10 @@ Describa brevemente un ejemplo de cumplimiento y uno de incumplimiento de las di
      ![](./assets/positivo-6.png)
    
    * Ejemplos negativos
+     
+     Al querer ver el carrito de compras se abre un modal el cual no se puede quitar haciendo uso de la interfaz. Podría haber una advertencia de esta situación.
+     
+     ![](assets/negativo-4.png)
 
 7. Ayuda al usuario en reconocer, diagnosticar y recuperarse del error
    
@@ -97,6 +103,8 @@ Describa brevemente un ejemplo de cumplimiento y uno de incumplimiento de las di
      ![](assets/positivo-7.png)
    
    * Ejemplos negativos
+     
+     No hay. Dado que, no existen muchos casos de errores detectados, por lo que no habrá recuperación de errores.
 
 8. Flexibilidad y eficiencia de uso
    
@@ -109,6 +117,8 @@ Describa brevemente un ejemplo de cumplimiento y uno de incumplimiento de las di
      ![](./assets/positivo-8-2.png)
    
    * Ejemplos negativos
+     
+     No hay recomendados en base a lo que suele buscar un usuario.
 
 9. Diseño estético y minimalista
    
@@ -131,6 +141,7 @@ Describa brevemente un ejemplo de cumplimiento y uno de incumplimiento de las di
       Presenta una sección de [ayuda](https://ayuda.emotions.cl/hc/es/articles/202573399--Como-agregar-una-fecha-importante-en-mi-Calendario-de-Escritorio-o-Pared-) en como personalizar los productos haciendo uso de la página web.
       
       ![](assets/positivo-10.png)
+    
     * Ejemplos negativos
       
       No se presentan, ya que al ser una simple tienda no tiene mucha ciencia su utilización ya que todo es super intuitivo.
