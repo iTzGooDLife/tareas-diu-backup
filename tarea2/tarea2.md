@@ -14,15 +14,23 @@ Describa brevemente un ejemplo de cumplimiento y uno de incumplimiento de las di
    
    * Ejemplos positivos
      
-     [](./assets/positivo-1.png)
+     Como la mayoría de páginas de tiendas, esta tienda también muestra productos importantes en la página principal, lo que ayuda a tener una idea del tipo de productos que se venden.
+     
+     Además, hay una clara diferenciación en los textos entre los hipervínculo y el texto normal
+     
+     ![](./assets/positivo-1.png)
    
    * Ejemplos negativos
+   
+   * No se encuentran. La página cumple un proposito bastante simple y es bastante generica por lo que es dificil encontrar fallos de consistencia o estandares.
 
 2. Visibilidad del estado del sistema
    
    * Ejemplos positivos
      
-     Se ejecuta una animación cuando se cliclea un botón, dando a entender que se ejecutó una acción
+     Cuando se hace click en los botones, estos realizan una animación simulando ser presionado, haciendole saber al usuario que este fue presionado.
+     
+     [Botón ejemplo "CREAR"]([Foto Tela 60x80 Horizontal - Emotions](https://emotions.cl/producto/foto-tela-60x80-horizontal/))
    
    * Ejemplos negativos
      
@@ -34,9 +42,9 @@ Describa brevemente un ejemplo de cumplimiento y uno de incumplimiento de las di
    
    * Ejemplos positivos
      
-     No tiene lenguaje técnico, además, las descripciones de los productos son 
+     No se usa un lenguaje técnico en los productos ni en sus descripciones, haciendo que sea una experiencia similar al mundo real.
      
-     concisas.
+     ![](./assets/positivo-3-2.png)
    
    * Ejemplos negativos
      
@@ -46,19 +54,27 @@ Describa brevemente un ejemplo de cumplimiento y uno de incumplimiento de las di
    
    * Ejemplos positivos
      
-     lo del negativo, al reves. Además, no aparecen pop-up de publicidad o de adblock
+     En todos los otros modales o ventanas emergentes (a excepción del mencionado debeja) existe la opciones de regresar con la misma interfaz.
+     
+     Además, no aparecen pop-up de publicidad o problemas con el adblock.
+     
+     ![](./assets/positivo-4.png)
    
    * Ejemplos negativos
      
-     [Carro de Compras - Emotions](https://emotions.cl/carro-de-compras/)
+     Al entrar al carro de compras pide iniciar sesion y no existe una "salida de emergencia" para regresar en la interfaz, no dejando más opción que regresar con el navegador (no sale "cruz" para quitar el modal).
      
-     al entrar al carro de compras pide iniciar sesion y si uno quiere regresar no se puede mediante la interacción con la interfaz, no hay más opción que regresar con el navegador (no sale "cruz" para quitar el modal).
+     ![](./assets/negativo-4.png)
+     
+     [Carro de Compras - Emotions](https://emotions.cl/carro-de-compras/)
 
 5. Reconocimiento más que recuerdo
    
    * Ejemplos positivos
      
-     El flujo de selección de un producto es intuitivo, ya que no sólo tiene el nomrbe del producto, también imágenes.
+     El flujo de selección de un producto es intuitivo, ya que no sólo tiene el nombre del producto con sus características generales, también imágenes.
+     
+     ![](./assets/positivo-5.png)
    
    * Ejemplos negativos
 
@@ -67,15 +83,19 @@ Describa brevemente un ejemplo de cumplimiento y uno de incumplimiento de las di
    * Ejemplos positivos
      
      Al crear una cuenta, al usuario se le pide repetir la contraseña, así se disminuye la probabilidad que el usuario ingrese su nueva contraseña con algún error de tipeo.
+     
+     ![](./assets/positivo-6.png)
+   
    * Ejemplos negativos
-     
-     
 
 7. Ayuda al usuario en reconocer, diagnosticar y recuperarse del error
    
    * Ejemplos positivos
      
      Al ir al carrito de compras e ingresar un e-mail sin el signo @, aparecerá un mensaje que indica que se debe incluir el signo @ en la dirección de correo electrónico.
+     
+     ![](assets/positivo-7.png)
+   
    * Ejemplos negativos
 
 8. Flexibilidad y eficiencia de uso
@@ -83,6 +103,11 @@ Describa brevemente un ejemplo de cumplimiento y uno de incumplimiento de las di
    * Ejemplos positivos
      
      Para los usuarios que hayan marcado como favoritos productos que les haya gustado con el ícono de corazón, luego pueden acceder a estos rápidamente a través de apretar el ícono de corazón que aparece en la frontpage, ahorrándose acciones para acceder a estos.
+     
+     ![](./assets/positivo-8.png)
+     
+     ![](./assets/positivo-8-2.png)
+   
    * Ejemplos negativos
 
 9. Diseño estético y minimalista
@@ -90,11 +115,22 @@ Describa brevemente un ejemplo de cumplimiento y uno de incumplimiento de las di
    * Ejemplos positivos
      
      En la frontpage, al bajar un poco, se muestran los productos más vendidos y recomendados, los cuales se denotan claramente para poder seleccionar y ocupan la totalidad de la pantalla para que tengan énfasis y no distraer al usuario con otra información.
+     
+     ![](./assets/positivo-5.png)
+   
    * Ejemplos negativos
      
      Al principio de la página principal, inmediatamente se puede observar una gran cantidad de información y opciones disponibles de manera compacta, como el registro, compra, categorías de productos, información de descuentos, etc., lo cual puede ser abrumador para un usuario nuevo o que haya ocupado pocas veces la página web
+     
+     ![](./assets/negativo-9.png)
 
 10. Ayuda y documentación
     
     * Ejemplos positivos
+      
+      Presenta una sección de [ayuda](https://ayuda.emotions.cl/hc/es/articles/202573399--Como-agregar-una-fecha-importante-en-mi-Calendario-de-Escritorio-o-Pared-) en como personalizar los productos haciendo uso de la página web.
+      
+      ![](assets/positivo-10.png)
     * Ejemplos negativos
+      
+      No se presentan, ya que al ser una simple tienda no tiene mucha ciencia su utilización ya que todo es super intuitivo.
